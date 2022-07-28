@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "mars rover unit test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Mai Emad",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^25.5.4",
+    "supertest": "^6.2.4"
+  },
+  "dependencies": {
+    "jest-circus": "^28.1.3"
+  }
+}

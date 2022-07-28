@@ -1,0 +1,6 @@
+# changing the args of myMars_rover instance of Mars_Rover class with:
+
+1- ([0, 0], North, LFFFLBBB)  --> should result in a position of -3,3 facing South.
+2- ([3, 4], East, FFFRFBRFLB) --> should result in a position of 5, 5 facing South.
+3- ([-5, 22], South, LRFFBB)  --> should result in a position of -5, 22 facing South.
+
