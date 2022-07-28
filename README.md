@@ -10,9 +10,9 @@
          
          
 <h1>How To Run Unit Test</h1>
-1- in terminal use -> npm i jest </br>
+1- in the terminal write -> npm i jest  to install jest testing framework </br>
 2- in rover.js change "export" word to "module.exports ="  </br>
-3- in terminal write npm test to see the result  </br>
+3- in the terminal write npm test to see the result  </br>
 
 
 
