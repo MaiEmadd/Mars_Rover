@@ -1,6 +1,6 @@
 # Mars_Rover
 
-<h1>How To Run The app</h1>
+<h1>How To Run The App</h1>
 1- create instant from Mars_Rover class Counstractor with new arguments or work with default vlaue.(in main.js file) </br>
          <b>Note-1: the arguments are (location coordinates, direction, commands) of Rover. </b> </br>
          <b>Note-2: there is attached test cases file you can you if you want </b> </br></br>
@@ -9,7 +9,7 @@
 3-in the opend browser window press f12 to open console so you can see the result.
          
          
-<h1>How To Run unit test</h1>
+<h1>How To Run Unit Test</h1>
 1- in terminal use -> npm i jest </br>
 2- in rover.js change "export" word to "module.exports ="  </br>
 3- in terminal write npm test to see the result  </br>
